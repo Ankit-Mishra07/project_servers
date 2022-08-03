@@ -9,8 +9,8 @@
     "nodemailer": "^6.7.5"
   },
   "scripts": {
-    "start": "node server.js",
-    "server": "nodemon server.js"
+    "start": "node ./server.js",
+    "server": "nodemon ./server.js"
   },
   "name": "server",
   "version": "1.0.0",
